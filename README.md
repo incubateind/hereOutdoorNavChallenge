@@ -8,7 +8,7 @@ Read the following steps and guidelines properly for proper submission of your p
 #### Fork this repository
 
 ### Step 2
-#### Create a New Folder within the forked repository, with the 'folder name' being your 'team name'
+#### Create a New Folder within the forked repository, with the 'folder name' being your 'username' on IncubateIND
 
 ## Contents of the folder
 + The project directory.
