@@ -18,7 +18,15 @@ form of audio.
 <b> KEYWORDS: </b> GPS Synthesized directional audio, audible feedback technology, Navigation system.
 
 <hr>
-
+<h2>Key Features </h2>
+<ul>
+  <li>Obstacle Detection</li>
+  <li>Nearby Helpstation</li>
+  <li>Voice based Maps</li>
+  <li>Multilingual</li>
+  <li>Harmless</li>
+</ul>
+<hr>
 This project demonstrates the ability to navigate a blind, based on synthesized directional audio which allows the user
 to move to a known location without the use of a visual aid. The module uses a GPS, external memory, a central
 microcontroller module to generate sound based on the direction that the user must turn in order to face the correct
