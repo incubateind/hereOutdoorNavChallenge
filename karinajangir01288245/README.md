@@ -15,6 +15,8 @@ it will give a warning message. This project use speech recognition system, whic
 learning techniques. They are Mel Frequency Cepstral Coefficients and k-means clustering. User gets feedback in the
 form of audio.
 
+<a href="nav.jpg">
+
 <b> KEYWORDS: </b> GPS Synthesized directional audio, audible feedback technology, Navigation system HERE Maps API.
 
 <hr>
