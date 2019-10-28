@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">My FairebaseAuth App</string>
+        <string name="login_menu_item">Log in</string>
+        <string name="verified_profile">My Profile</string>
+        <string name="home">Home</string>
+        <string name="unverified_profile">My Profile (Unverified)</string>
+        <string name="settings">Settings</string>
+        <string name="logout_menu_item">Sign out</string>
+        <string name="welcome_on_signin">Congratulations! you have successfully signed in.</string>
+        <string name="default_nouser_signin">No user signed in currently.</string>
+        <string name="login_failed">Log in cancelled!</string>
+        <string name="login_success">Log in successful.</string>
+        <string name="logout_success">Successfully logged out</string>
+        <string name="logout_failed">Failed to log out</string>
+        <string name="login_unknown_Error">Unknown error while logging in. Please Try again</string>
+        <string name="no_connectivity">There is no internet connection. Please try again</string>
+</resources>
