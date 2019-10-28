@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "825256213870",
+    "firebase_url": "https://authdrawer.firebaseio.com",
+    "project_id": "authdrawer",
+    "storage_bucket": "authdrawer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825256213870:android:3e9a3286c4883873",
+        "android_client_info": {
+          "package_name": "com.troublemakerzzzz.authdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825256213870-en295e4a309oo68qlucm2k96pdqbb3tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzdIbglSns6umlF8wWFhOekhyX7Aiys8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
